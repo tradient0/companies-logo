@@ -1,0 +1,10 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="url(#paint0_linear_228_6361)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 4H6L3 9L6 14H12L15 9L12 4ZM9.11714 13C10.6411 13 11.9716 12.1956 12.6835 11H11.2361C10.6868 11.6137 9.8885 12 9 12C7.34315 12 6 10.6569 6 9C6 7.34315 7.34315 6 9 6C9.8885 6 10.6868 6.38625 11.2361 7H12.6835C11.9716 5.8044 10.6411 5 9.11714 5C6.84331 5 5 6.79086 5 9C5 11.2091 6.84331 13 9.11714 13Z" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear_228_6361" x1="3.07692" y1="2.47059" x2="16.3826" y2="15.3851" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3F4490"/>
+<stop offset="1" stop-color="#6CACD7"/>
+</linearGradient>
+</defs>
+</svg>

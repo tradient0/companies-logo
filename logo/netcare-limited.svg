@@ -1,0 +1,39 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#F0F3FA"/>
+<path d="M9 14C11.7614 14 14 11.7614 14 9C14 6.23858 11.7614 4 9 4C6.23858 4 4 6.23858 4 9C4 11.7614 6.23858 14 9 14Z" fill="#F6B97E"/>
+<path d="M9 13.376C11.4168 13.376 13.376 11.4168 13.376 9.00003C13.376 6.58323 11.4168 4.62402 9 4.62402C6.5832 4.62402 4.62399 6.58323 4.62399 9.00003C4.62399 11.4168 6.5832 13.376 9 13.376Z" fill="#280E01"/>
+<path d="M9 13C11.2091 13 13 11.2091 13 9C13 6.79086 11.2091 5 9 5C6.79086 5 5 6.79086 5 9C5 11.2091 6.79086 13 9 13Z" fill="#E1DADC"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 6V6.22222V8H6C6.31933 7.125 7.12185 6.33333 8 6Z" fill="#10345D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 6V6.22222L10 8H11.75H12C11.6807 7.12083 10.8782 6.33333 10 6Z" fill="#10345D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 12V11.7778V10L6.22269 10H6C6.31933 10.8792 7.12185 11.6667 8 12Z" fill="#10345D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 12L10 11.7778L10 10H11.75H12C11.6807 10.8792 10.8782 11.6667 10 12Z" fill="#10345D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.05983 5C9.38462 5 9.70085 5.05594 10 5.15766V12.8423C9.70085 12.9441 9.38462 13 9.05983 13C8.68803 13 8.33333 12.9288 8 12.7966V5.20343C8.33333 5.0712 8.69231 5 9.05983 5Z" fill="url(#paint0_linear_5099_144190)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 8.00001V10C13 10 11.1596 10 9.04787 10C6.89894 10 5 10 3 10V8C5 8 6.89894 8.00002 9.04787 8.00002C11.1596 8.0048 13 8 15 8.00001Z" fill="url(#paint1_linear_5099_144190)"/>
+<rect x="4" y="8.5" width="10" height="1" fill="url(#paint2_linear_5099_144190)"/>
+<defs>
+<linearGradient id="paint0_linear_5099_144190" x1="9" y1="5" x2="9" y2="13" gradientUnits="userSpaceOnUse">
+<stop offset="0.194392" stop-color="#FBD992"/>
+<stop offset="0.583333" stop-color="#B7763B"/>
+<stop offset="0.843066" stop-color="#F5DBB6"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5099_144190" x1="3" y1="9" x2="15.5854" y2="9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A2030"/>
+<stop offset="1" stop-color="#0B4274"/>
+</linearGradient>
+<linearGradient id="paint2_linear_5099_144190" x1="3.17004" y1="9" x2="14.8341" y2="9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E4AD7C"/>
+<stop offset="0.0729167" stop-color="#E4C0A2"/>
+<stop offset="0.164452" stop-color="#F8E6AA"/>
+<stop offset="0.266993" stop-color="#FEFCF0"/>
+<stop offset="0.398866" stop-color="#E4AD7C"/>
+<stop offset="0.453187" stop-color="#ECD9BA"/>
+<stop offset="0.515555" stop-color="#ECBE8A"/>
+<stop offset="0.581947" stop-color="#FCD196"/>
+<stop offset="0.658399" stop-color="#F1D5AD"/>
+<stop offset="0.710707" stop-color="#F2D8B1"/>
+<stop offset="0.783135" stop-color="#E1B573"/>
+<stop offset="0.825384" stop-color="#D1CEBB"/>
+<stop offset="0.86361" stop-color="#E3B576"/>
+</linearGradient>
+</defs>
+</svg>

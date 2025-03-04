@@ -1,0 +1,20 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#F0F3FA"/>
+<path d="M8.6 12.7661L3.13 8.85011C3.08172 8.81541 3.0442 8.76917 3.02134 8.71619C2.99848 8.66322 2.99111 8.60545 3 8.54888C3.11 7.95583 3.44 6.15786 3.55 5.4895C3.58 5.3483 3.59 5.08472 3.5 5L7.81 7.32513L13.92 8.13469C14.09 8.15352 14.22 8.26648 14.27 8.41709C14.47 9.06662 14.7 9.70674 14.77 9.89501C14.78 9.92325 14.77 9.95149 14.73 9.9609L11.76 10.714L10.38 12.512C9.97 13.0485 9.15 13.1615 8.59 12.7567L8.6 12.7661Z" fill="url(#paint0_linear_5057_139956)"/>
+<path d="M11.76 10.7139L10.38 12.5119C9.97001 13.0485 9.15001 13.1614 8.59001 12.7567L3.48001 9.10423L5.44001 7.1933C5.53001 7.09916 5.66001 7.06151 5.80001 7.07092L7.04001 7.23095L8.22001 7.38157L13.92 8.13464C14.09 8.15347 14.22 8.26643 14.27 8.41705C14.47 9.05717 14.74 9.69728 14.83 9.88555C14.83 9.92321 14.83 9.95145 14.79 9.96086L11.76 10.7139Z" fill="url(#paint1_linear_5057_139956)"/>
+<path d="M15 9.97033C15.01 9.98915 11.76 10.714 11.76 10.714L13.66 8.09705L13.92 8.1347C14.09 8.15353 14.22 8.26649 14.27 8.4171C14.52 9.17018 14.89 9.87619 15 9.97033Z" fill="url(#paint2_linear_5057_139956)"/>
+<defs>
+<linearGradient id="paint0_linear_5057_139956" x1="3.8" y1="5.65894" x2="6.6952" y2="8.71456" gradientUnits="userSpaceOnUse">
+<stop stop-color="#CCFF00"/>
+<stop offset="1" stop-color="#F5FF00"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5057_139956" x1="13.57" y1="8.05934" x2="4.07763" y2="9.85813" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0BAFBF"/>
+<stop offset="1" stop-color="#81E81F"/>
+</linearGradient>
+<linearGradient id="paint2_linear_5057_139956" x1="14.25" y1="8.7654" x2="12.347" y2="10.8667" gradientUnits="userSpaceOnUse">
+<stop stop-color="#849EA0"/>
+<stop offset="1" stop-color="#54A0A4"/>
+</linearGradient>
+</defs>
+</svg>

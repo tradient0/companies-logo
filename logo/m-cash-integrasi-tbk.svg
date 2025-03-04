@@ -1,0 +1,9 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#F0F3FA"/>
+<circle cx="9" cy="9" r="1.5" fill="#E20613"/>
+<circle cx="12.5" cy="12.5" r="1.5" fill="#662482"/>
+<circle cx="5.5" cy="12.5" r="1.5" fill="#662482"/>
+<circle cx="12.5" cy="5.5" r="1.5" fill="#E20613"/>
+<circle cx="5.5" cy="5.5" r="1.5" fill="#E20613"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.909 5.65666L8.96372 9.63565L5.14856 5.65168L5.72635 5.09836L8.97369 8.48939L12.3409 5.09338L12.909 5.65666Z" fill="#E20613"/>
+</svg>

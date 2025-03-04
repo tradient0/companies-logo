@@ -1,0 +1,22 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#F0F3FA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 6H16V9H15V7H3V11H5.33421L6.00132 12H2V6Z" fill="url(#paint0_linear_228_6472)"/>
+<rect x="4" y="9" width="1" height="2" fill="black"/>
+<circle cx="4.5" cy="8.5" r="0.5" fill="url(#paint1_linear_228_6472)"/>
+<path d="M5 9H5.75L6.5 10.0858L7.25 9H8V12H7.25V10.074L6.5 11.3333L5 9Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.2438 10.4V10H11.5609H10.878H10.1951V10.4L10.878 10.4V12H11.5609V10.4L12.2438 10.4Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.317 10H14.634V12H14.6341H15.317H15.9999V11.6H15.317V10Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.48782 10H8.48779V12H9.24388V12L10 12V11.6L9.24388 11.6V11.1999L10 11.1999V10.7999L9.24388 10.7999V10.4045L10 10.4045V10H9.24388H8.48782Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.238 11.9999L13.0064 10H13.5244L14.2928 11.9999H13.8032L13.6496 11.6H12.8932L12.7395 11.9999H12.238ZM13.0468 11.2H13.4959L13.2714 10.6156L13.0468 11.2Z" fill="black"/>
+<defs>
+<linearGradient id="paint0_linear_228_6472" x1="2" y1="6.36471" x2="10.2929" y2="15.3219" gradientUnits="userSpaceOnUse">
+<stop offset="0.14589" stop-color="#9D531B"/>
+<stop offset="0.395211" stop-color="#F9C55C"/>
+<stop offset="0.985005" stop-color="#90511B"/>
+</linearGradient>
+<linearGradient id="paint1_linear_228_6472" x1="4.5" y1="8" x2="4.5" y2="9" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DAA647"/>
+<stop offset="1" stop-color="#E9B751"/>
+</linearGradient>
+</defs>
+</svg>

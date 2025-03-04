@@ -1,0 +1,15 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#F0F3FA"/>
+<path d="M8.96493 4.28767C8.5036 4.65734 8.03619 5.17659 7.78956 5.83955C7.2355 7.32884 7.68452 8.39693 8.69772 10.807C8.71675 10.8523 8.73599 10.898 8.75542 10.9443C9.46814 12.6403 8.47942 13.5856 7.62871 13.9745C6.54677 14.09 5.55719 13.8152 4.86952 13.111C3.33508 11.5396 3.88493 8.42516 6.09766 6.15474C6.97244 5.25716 7.97614 4.62586 8.96493 4.28767Z" fill="url(#paint0_linear_5057_139109)"/>
+<path d="M10.5172 4.00348C9.65895 4.22976 8.49538 5.06883 9.23578 7.08894L10.2774 9.5435C10.6637 10.7121 10.4799 12.1703 9.29145 13.5331C10.1655 13.171 11.0339 12.603 11.8063 11.8453C14.1203 9.57484 14.6954 6.46043 13.0907 4.88904C12.4382 4.2501 11.5258 3.96465 10.5172 4.00348Z" fill="url(#paint1_linear_5057_139109)"/>
+<defs>
+<linearGradient id="paint0_linear_5057_139109" x1="8.44284" y1="9.58985" x2="3.97992" y2="10.9847" gradientUnits="userSpaceOnUse">
+<stop stop-color="#057A5F" stop-opacity="0.7"/>
+<stop offset="1" stop-color="#057A5F" stop-opacity="0.3"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5057_139109" x1="12.7916" y1="7.74935" x2="10.0283" y2="9.1002" gradientUnits="userSpaceOnUse">
+<stop stop-color="#057A5F"/>
+<stop offset="1" stop-color="#057A5F" stop-opacity="0.7"/>
+</linearGradient>
+</defs>
+</svg>
